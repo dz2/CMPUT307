@@ -1,6 +1,0 @@
-﻿C:\Users\SKT RageGank\Desktop\307\project\t$m$p$$$\Revolver.max
-C:\Users\SKT RageGank\Desktop\307\project\t$m$p$$$\MAXFILES.TXT
-C:\Users\SKT RageGank\Desktop\spinner.bmp
-C:\Users\SKT RageGank\Desktop\handle.bmp
-C:\Users\SKT RageGank\Desktop\revolverReference.jpg
-C:\Program Files\Autodesk\3ds Max 2018\maps\uvwunwrap\UV_Checker.png

@@ -1,0 +1,7 @@
+﻿C:\Users\SKT RageGank\Desktop\307\project\t$m$p$$$\tom.max
+C:\Users\SKT RageGank\Desktop\307\project\t$m$p$$$\MAXFILES.TXT
+C:\Users\SKT RageGank\Desktop\307\objects\Quatermain\Quatermain_Head_D.tga
+C:\Users\SKT RageGank\Desktop\307\objects\Quatermain\Quatermain_Eye_D.tga
+C:\Users\SKT RageGank\Desktop\307\objects\Quatermain\Quatermain_Legs_D.tga
+C:\Users\SKT RageGank\Desktop\307\objects\Quatermain\Quatermain_Torso_D.tga
+C:\Users\SKT RageGank\Desktop\307\objects\Quatermain\Quatermain_Props_D.tga
